@@ -1,0 +1,6 @@
+{
+  "name": "A Heartfelt Apology For My Baby Doll",
+  "description": "A romantic and deeply emotional apology website with 5 heartfelt message cards, an interactive apology bouquet, and a grand finale for my dear baby doll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
